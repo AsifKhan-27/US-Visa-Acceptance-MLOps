@@ -18,3 +18,4 @@ Data ingestion will get data from the database.
 2. entity
 3. components
 4. Pipeline
+5. Main file

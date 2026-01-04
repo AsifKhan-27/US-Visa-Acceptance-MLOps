@@ -1,5 +1,5 @@
 # This file manages inputs and outputs from one component to another
-# defines the return type of each component
+# defines the return type of each component and the file paths
 
 from dataclasses import dataclass
 
