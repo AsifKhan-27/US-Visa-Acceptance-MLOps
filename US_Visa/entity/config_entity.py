@@ -1,4 +1,4 @@
-# This file uses the constants from the constants folder within the project
+# This file uses the constants from the constants folder within the project to create file paths that each component will use
 
 import os
 from US_Visa.constants import *
